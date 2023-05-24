@@ -1,0 +1,1 @@
+# skripta-kyb
