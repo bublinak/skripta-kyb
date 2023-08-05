@@ -1,3 +1,0 @@
-# Základní pojmy
-
-____
