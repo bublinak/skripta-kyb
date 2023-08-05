@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-08-05T18:00:09.668Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="BIVnEsAzo1ootRhyVVMy" version="21.6.6">
+  <diagram name="Stránka-1" id="vX8K34ISwk-sphwfKsRp">
+    <mxGraphModel dx="1366" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8t7gSggmwBykBpN6wccu-52" value="&lt;div&gt;Systém&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8t7gSggmwBykBpN6wccu-53" value="y = v&lt;sub&gt;out&lt;/sub&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;verticalAlign=bottom;" edge="1" parent="1" source="8t7gSggmwBykBpN6wccu-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8t7gSggmwBykBpN6wccu-54" value="u = v&lt;sub&gt;in&lt;/sub&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;verticalAlign=bottom;" edge="1" parent="1" target="8t7gSggmwBykBpN6wccu-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
