@@ -6,7 +6,7 @@
 
 Za zakladatele je považován Norbert Wiener, americký matematik, který vydal v roce 1948 knihu Kybernetika aneb Řízení a sdělování u organismů a strojů.
 
-<img src=img/KUZ520495_mrscience1.jpg>
+![https://github.com/skely/SPSE-KYB/blob/main/img/KUZ520495_mrscience1.jpg](https://github.com/skely/SPSE-KYB/blob/main/img/KUZ520495_mrscience.jpg)
 
  Kybernetika se vyvíjela odlišně v různých zemích. V západních zemích víceméně splynula s obecnou teorií systémů a řada oborů, které byly považovány za součást kybernetiky, se vyvíjí jako samostatné obory – například informatika nebo neuronové sítě.
 
