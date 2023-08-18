@@ -55,7 +55,7 @@ ve svém díle se věnuje mj. automatizaci:
 **Wattův odstředivý regulátor**  
 v roce 1782 James Watt jej zavedel ke stabilizaci otáček parního stroje 
 
-<img src="img/Centrifugal_governor.png" height=400>
+<img src="img/Centrifugal_governor.png" height=300>
 
 >Skládá se ze dvou závaží, která rotují a jsou poháněna strojem, jehož otáčky mají být regulovány. Čím rychleji tato závaží rotují, tím větší je vlivem odstředivé síly jejich výchylka od svislé osy rotace. Uvedené vychýlení je nad jejich ukotvením převedeno na svislý pohyb, který je dále pákou a táhlem převeden k ventilu přivádějícímu páru ke stroji. Je tak realizována mechanická záporná zpětná vazba, která dovoluje působením poměrně malých sil regulovat velmi výkonný stroj.
 
