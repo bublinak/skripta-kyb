@@ -14,22 +14,38 @@ V zemích „socialistického tábora“ byla nejprve kybernetika považována z
 
 ## Co je kybernetika a čím se zabývá
 
-- automatickým řízením
-- přenosem informace
-- konstrukcí robotů
-- živými organizmy
-- komunikací, spoluprácí a interakcí člověka a stroje
+- Automatickým řízením
+- Přenosem informace
+- Konstrukcí robotů
+- Živými organizmy
+- Komunikací, spoluprácí a interakcí člověka a stroje
 
 ## Základní kybernetické principy
 
 - Systémový přístup
 - Informační přístup
 - Řidící přístup
+
+## Klasifikace kybernetiky
+
+- Teoretická kybernetika  
+  *teoretický základ oboru*
   
+- Experimentální  
+  *studium reálných procesů prostřednictvím jijich modelů*
+  
+- Technická  
+  *konstrukce a využití technických kybernetických systémů (systémy pro přenos informace, tvorba manipulátorů a robotů)*
+  
+- Aplikovaná  
+  *aplikace kybernetiky v jiných oblastech (biokybernetika, lékařská kybernetika, sociální sféra, ekonomika*
 
 ## Historické příklady z kybernetiky
 
-Hérón Alexandrijský
+**Hérón "Méchanikos" Alexandrijský** (10 - 75 n. l.)
+
+Herónova baňka
+Aeolipile_illustration.png
 
 ## Různé další definice kybernetiky
 
