@@ -43,19 +43,24 @@ V zemích „socialistického tábora“ byla nejprve kybernetika považována z
 ## Historické příklady z kybernetiky
 
 **Hérón "Méchanikos" Alexandrijský** (10 - 75 n. l.)  
-ve svém díle se věnuje mj. automatizaci  
-
-samodoplňovací olejová lampa, samočinně zavírané dveře, automatický pohyb loutek, automat na limonádu na minci, ...
 
 Herónova baňka - parní stroj  
 <img src=img/Aeolipile_illustration.png height=400>
 
-**Wattův odstředivý regulátor**
-v roce 1782 James Watt zaveden ke stabilizaci otáček parního stroje 
+ve svém díle se věnuje mj. automatizaci:  
+*samodoplňovací olejová lampa, samočinně zavírané dveře, automatický pohyb loutek, automat na limonádu na minci, ...*
 
-<img src="img/Centrifugal_governor.png">
+---  
+
+**Wattův odstředivý regulátor**  
+v roce 1782 James Watt jej zavedel ke stabilizaci otáček parního stroje 
+
+<img src="img/Centrifugal_governor.png" height=400>
 
 >Skládá se ze dvou závaží, která rotují a jsou poháněna strojem, jehož otáčky mají být regulovány. Čím rychleji tato závaží rotují, tím větší je vlivem odstředivé síly jejich výchylka od svislé osy rotace. Uvedené vychýlení je nad jejich ukotvením převedeno na svislý pohyb, který je dále pákou a táhlem převeden k ventilu přivádějícímu páru ke stroji. Je tak realizována mechanická záporná zpětná vazba, která dovoluje působením poměrně malých sil regulovat velmi výkonný stroj.
+
+---
+
 
 ## Různé další definice kybernetiky
 
