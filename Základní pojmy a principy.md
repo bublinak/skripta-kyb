@@ -17,7 +17,8 @@ Kybernetika se svým pojetím liší od ostatních věd (fyziky, chemie, biologi
 ## Pojmy:
 
 * **Systém:** soubor určitého množství prvků ($S_i$)navzájem spolu souvisejících ($R_i$)a nějak vázaných na svoje okolí. Jedná se tedy o pojem k označení zkoumané části objektivní realityvydělené z okolního světa za účelem poznání.
-![system_obecne](https://github.com/skely/SPSE-KYB/blob/main/img/neorientovany_system.drawio.png)
+
+<img src="img/system_obecne.drawio.png">
 
 $S = \set{S_i,R_i}$
 >Systém $S$ je definován jako množina prvků $S_i$ a jejich vzájemnými relacemi $R_i$ reprezentujícími vzájemné funkční vztahy jednotlivých prvků a vztah systému k jeho okolí.
@@ -29,7 +30,7 @@ $S = \set{S_i,R_i}$
 ---
 * **Neorientovaný systém** * - systém s dvojicí vstupu a výstupu
 
-![system_obecne](https://github.com/skely/SPSE-KYB/blob/main/img/neorientovany_system.drawio.png)
+<img src="img/neorientovany_system.drawio.png">
 
 * **Orientovaný systém:** - proměnné se dělí na vstupní a výstupní proměnné (nezávislé, závislé proměnné)
   
