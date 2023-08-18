@@ -45,7 +45,9 @@ V zemích „socialistického tábora“ byla nejprve kybernetika považována z
 **Hérón "Méchanikos" Alexandrijský** (10 - 75 n. l.)
 
 Herónova baňka
-Aeolipile_illustration.png
+<img src=img/Aeolipile_illustration.png>
+
+
 
 ## Různé další definice kybernetiky
 
