@@ -6,7 +6,7 @@
 
 Za zakladatele je považován Norbert Wiener, americký matematik, který vydal v roce 1948 knihu Kybernetika aneb Řízení a sdělování u organismů a strojů.
 
-![https://github.com/skely/SPSE-KYB/blob/main/img/KUZ520495_mrscience1.jpg](https://github.com/skely/SPSE-KYB/blob/main/img/KUZ520495_mrscience.jpg)
+<img src="img/KUZ520495_mrscience.jpg">
 
  Kybernetika se vyvíjela odlišně v různých zemích. V západních zemích víceméně splynula s obecnou teorií systémů a řada oborů, které byly považovány za součást kybernetiky, se vyvíjí jako samostatné obory – například informatika nebo neuronové sítě.
 
@@ -42,12 +42,20 @@ V zemích „socialistického tábora“ byla nejprve kybernetika považována z
 
 ## Historické příklady z kybernetiky
 
-**Hérón "Méchanikos" Alexandrijský** (10 - 75 n. l.)
+**Hérón "Méchanikos" Alexandrijský** (10 - 75 n. l.)  
+ve svém díle se věnuje mj. automatizaci  
 
-Herónova baňka
-<img src=img/Aeolipile_illustration.png>
+samodoplňovací olejová lampa, samočinně zavírané dveře, automatický pohyb loutek, automat na limonádu na minci, ...
 
+Herónova baňka - parní stroj  
+<img src=img/Aeolipile_illustration.png height=400>
 
+**Wattův odstředivý regulátor**
+v roce 1782 James Watt zaveden ke stabilizaci otáček parního stroje 
+
+<img src="img/Centrifugal_governor.png">
+
+>Skládá se ze dvou závaží, která rotují a jsou poháněna strojem, jehož otáčky mají být regulovány. Čím rychleji tato závaží rotují, tím větší je vlivem odstředivé síly jejich výchylka od svislé osy rotace. Uvedené vychýlení je nad jejich ukotvením převedeno na svislý pohyb, který je dále pákou a táhlem převeden k ventilu přivádějícímu páru ke stroji. Je tak realizována mechanická záporná zpětná vazba, která dovoluje působením poměrně malých sil regulovat velmi výkonný stroj.
 
 ## Různé další definice kybernetiky
 
