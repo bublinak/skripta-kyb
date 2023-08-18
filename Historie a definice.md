@@ -12,9 +12,26 @@ Kybernetika se vyvíjela odlišně v různých zemích. V západních zemích v�
 
 V zemích „socialistického tábora“ byla nejprve kybernetika považována za „buržoasní pavědu“, z čistě ideologických důvodů. Začala být znovu přijímána až v polovině 50. let. Pak se naopak stala zastřešující disciplínou pro mnoho oborů, které se ve svobodném světě osamostatnily. Za součást kybernetiky byla považována například i informatika.
 
+## Co je kybernetika a čím se zabývá
 
+- automatickým řízením
+- přenosem informace
+- konstrukcí robotů
+- živými organizmy
+- komunikací, spoluprácí a interakcí člověka a stroje
 
-## Definice 
+## Základní kybernetické principy
+
+- Systémový přístup
+- Informační přístup
+- Řidící přístup
+  
+
+## Historické příklady z kybernetiky
+
+Hérón Alexandrijský
+
+## Různé další definice kybernetiky
 
 
 
