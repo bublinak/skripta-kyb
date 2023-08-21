@@ -40,6 +40,8 @@ $S = \set{S_i,R_i}$
   
 * **Nekauzální systémy:** jsou takové systémy, jejichž chování v přítomnosti závisí na hodnotách v minulosti, přítomnosti, ale i budoucnosti. Tyto systémy nerepektují kauzální vztah příčiny a následku, mají tedy "schopnost předvídat". Tyto systémy jsou fyzikálně nerealizovatelné.
 
+---
+
 * **Deterministické systémy:** vykazují při opakovaném využití stejné chování při zachování stejných počátečních podmínek.
   
 * **Stochastické systémy:** ve systému je přítomna náhoda i když jsou počáteční podmínky stejné (řeší se zpravidla pomocí pravděpodobnostních modelů).
