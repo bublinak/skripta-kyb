@@ -16,7 +16,7 @@ Kybernetika se svým pojetím liší od ostatních věd (fyziky, chemie, biologi
 
 ## Pojmy:
 
-* **Systém:** soubor určitého množství prvků ($S_i$)navzájem spolu souvisejících ($R_i$)a nějak vázaných na svoje okolí. Jedná se tedy o pojem k označení zkoumané části objektivní realityvydělené z okolního světa za účelem poznání.
+* **Systém:** soubor určitého množství prvků ($S_i$)navzájem spolu souvisejících ($R_i$) a nějak vázaných na svoje okolí. Jedná se tedy o pojem k označení zkoumané části objektivní reality vydělené z okolního světa za účelem poznání.
 
 <img src="img/system_obecne.drawio.png">
 
