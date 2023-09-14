@@ -4,12 +4,16 @@
 
 2. Kapitola [Základní pojmy](https://github.com/bublinak/skripta-kyb/blob/main/Z%C3%A1kladn%C3%AD%20pojmy%20a%20principy.md)
 
-3. Kapitola [Příklady](https://github.com/bublinak/skripta-kyb/blob/main/P%C5%99%C3%ADklady.md)
+# Teorie informace
+
+3. Kapitola Základy teorie informace
+
+4. Kapitola Logické operace
 
 # Základy Umělé inteligence
 
-4. Kapitola Umělá inteligence
+5. Kapitola Umělá inteligence
 
-5. Kapitola Neuronové sítě
+6. Kapitola Neuronové sítě
 
  
