@@ -1,4 +1,4 @@
-# Základní pojmy a principy
+# Základní pojmy a principy kybernetiky
 
 Kybernetika se svým pojetím liší od ostatních věd (fyziky, chemie, biologie, ...). Odlišnost spočívá v tom, že ony vědy vidí reálný svět jako svět interakcí (vzájemné působení entit reálného světa), zatím co kybernetika ho vidí jako svět, kde něco plyne od někud někam, tedy jedním směrem, může to být nějaký rozruch v reálném světě nebo jindy informace. Je to pohled, který vznikl při studiu principu zpětné vazby, a který byl pro kybernetiku určující. Poznání reálného světa se tedy odehrává pod jiným zorným úhlem a s jinou interpretací. Tento odlišný pohled začal vznikat ve 20. letech dvacátého století v rodící se elektronice a sdělovací technice. Tímto viděním se potkává s teorií informace a sdělování, a nabízí jim včlenění do společného oboru. 
   
