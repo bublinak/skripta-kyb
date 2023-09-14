@@ -1,8 +1,8 @@
 # Kybernetika
 
-1. Kapitola [Historie kybernetiky](https://github.com/bublinak/skripta-kyb/blob/main/Historie_a_definice.md) 
+1. Kapitola [Historie kybernetiky](./Historie_a_definice.md) 
 
-2. Kapitola [Základní pojmy](https://github.com/bublinak/skripta-kyb/blob/main/Zakladni_pojmy_a_principy.md)
+2. Kapitola [Základní pojmy](./Zakladni_pojmy_a_principy.md)
 
 # Teorie informace
 
