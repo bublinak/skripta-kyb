@@ -28,7 +28,7 @@ $S = \set{S_i,R_i}$
 * **Abstraktní systém:** matematický model - je množina proměnných a množina relací mezi těmito proměnnými (např. dynamické rovnice, přenos, diferenciální rovnice, Ohmův zákon, ...) 
 
 ---
-* **Neorientovaný systém** * - systém s dvojicí vstupu a výstupu
+* **Neorientovaný systém** * - abstraktní systém s dvojicí vstupu a výstupu
 
 <img src="img/neorientovany_system.drawio.png">
 
