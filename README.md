@@ -8,7 +8,7 @@
 
 3. Kapitola [Základy teorie informace](./Teorie_informace.md)
 
-4. Kapitola Logické operace
+4. Kapitola [Logické systémy](./Logicke_systemy.md)
 
 # Základy Umělé inteligence
 
