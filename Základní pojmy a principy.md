@@ -47,7 +47,7 @@ $S = \set{S_i,R_i}$
 * **Stochastické systémy:** ve systému je přítomna náhoda i když jsou počáteční podmínky stejné (řeší se zpravidla pomocí pravděpodobnostních modelů).
 
 ### Systém se zpětnou vazbou
-<img src="img/zpetna_vazba.drawio.png">
+<img src="img/zpetna_vazba.png">
 
 ### Popisy systému:
 * **Vnější popis systému:** spočívá ve vyjádření dynamických vlastností mezi vstupem a výstupem. Systém se považuje za černou skříňku (black box), která má vstup a výstup (obecně může mít více vstupů a výstupů). Vnější popis (lineárního spojitého dynamického) systému s jednou vstupní a jednou výstupní veličinou může být představován:
