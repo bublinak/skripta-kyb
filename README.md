@@ -6,7 +6,7 @@
 
 # Teorie informace
 
-3. Kapitola Základy teorie informace
+3. Kapitola [Základy teorie informace](./Teorie_informace.md)
 
 4. Kapitola Logické operace
 
