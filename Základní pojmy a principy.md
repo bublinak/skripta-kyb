@@ -33,8 +33,8 @@ $S = \set{S_i,R_i}$
 <img src="img/neorientovany_system.drawio.png">
 
 * **Orientovaný systém:** - proměnné se dělí na vstupní a výstupní proměnné (nezávislé, závislé proměnné)
-  
-![system_obecne](https://github.com/skely/SPSE-KYB/blob/main/img/system.drawio.png)
+
+<img src="img/system.drawio.png">
 
 * **Kauzální systémy:** jsou takové systémy, jejichž chování v přítomnosti závisí na hodnotách vstupů v minulosti a přítomnosti. Respektují kauzální vztah příčiny a následku. Tyto systémy jsou fyzikálně realizovatelné.
   
