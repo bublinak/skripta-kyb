@@ -14,5 +14,20 @@ Zákonitostmi vzniku, přenosu a zpracování zpráv se zabývá vědní discipl
 - **Šum:** je jakákoliv (náhodné) rušení působící na sinál během jeho přenosu sdělovací soustavou.
 
   TODO: obrázek: Sdělovací soustava
+
+## Množství informace a entropie
+Princip stanovení množství informcae ve zprávě se zakládá na tom, jak velká neurčitost nějakého jevu se odstraňuje.
+Poznamenejme, že z hlediska příjemce představuje generování zprávy náhodný proces. Příjemce musí předem znát, jaké zprávy mohou být zdrojem produkovány , neví však která z možných zpráv bude zdrojem vysílána
+- **Množství informace:** je dána množstvím neurčitosti, kterou příjemce o daném jevu měl před přijetím zprávya která se přijetím zprávy odstranila.
+
+> Množství informace $I(X)$ obsažené ve zprávě $X$ je rovno míře neurčitosti zprávy - entropii $H(X)$, která se přijetím zprávy odstraní. Je tedy nepřímo úměrná pravděpodobnosti $P(x)$ výskytu daného jevu obsaženého ve zprávě.
   
+$I(X) = H(X) = f\[\frac{1}{P(X)}\]$  
+
+*(odvození, kdo chce - viz. skripta Kyberntika, F. Tůma)*
+
+> Základ logaritmu je libovolný a ovlivňuje pouze jednotky, ve kterých je informace vyjadřována. Shannon zavedl v definičním vztahu pro informaci logaritmus o základu 2.
+
+$I(X) = H(X) = log_2 \frac{1}{P(X)} = -log_2P(X)$
+
 
