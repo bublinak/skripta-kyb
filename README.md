@@ -1,19 +1,16 @@
 # Kybernetika
+---
 
-1. Kapitola [Historie kybernetiky](./Historie_a_definice.md) 
+## Skripta budu připravovat podle seznamu maturitních otázek [zde](./kybernetika/maturitni_otazky.md)
 
-2. Kapitola [Základní pojmy](./Zakladni_pojmy_a_principy.md)
 
-# Teorie informace
+*Stará nedokončená verze skript je [zde.](./kybernetika_old/obsah.md) 
+Tato verze už nebude aktualizovaná a bude kompletně nahrazená verzí podle maturitních otázek.*
 
-3. Kapitola [Základy teorie informace](./Teorie_informace.md)
+---
 
-4. Kapitola [Logické systémy](./Logicke_systemy.md)
+## Python
+Pracovní soubory použité při práci v hodině jsou [zde.](./python) 
 
-# Základy Umělé inteligence
+Ukázky kódů pro studium programování v pythonu jsou [zde.](https://drive.google.com/drive/folders/1Hw08E6HR7mQs6UtwHb9NVzz-ehCbG0i6?usp=sharing)
 
-5. Kapitola Umělá inteligence
-
-6. Kapitola Neuronové sítě
-
- 
