@@ -44,7 +44,7 @@ Kybernetika se svým pojetím liší od ostatních věd (fyziky, chemie, biologi
   *teoretický základ oboru*
   
 - Experimentální  
-  *studium reálných procesů prostřednictvím jijich modelů*
+  *studium reálných procesů prostřednictvím jejich modelů*
   
 - Technická  
   *konstrukce a využití technických kybernetických systémů (systémy pro přenos informace, tvorba manipulátorů a robotů)*
