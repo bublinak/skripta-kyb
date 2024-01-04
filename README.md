@@ -12,5 +12,5 @@ Tato verze už nebude aktualizovaná a bude kompletně nahrazená verzí podle m
 ## Python
 Pracovní soubory použité při práci v hodině jsou [zde.](./python) 
 
-Ukázky kódů pro studium programování v pythonu jsou [zde.](https://drive.google.com/drive/folders/1s2Ro3sDp8V0Yys9CvbpZPHJfNEfkoyw1?usp=sharing)
+Ukázky kódů pro studium programování v pythonu jsou na google drive [zde.](https://drive.google.com/drive/folders/1s2Ro3sDp8V0Yys9CvbpZPHJfNEfkoyw1?usp=sharing)
 
