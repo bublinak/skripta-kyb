@@ -17,4 +17,5 @@ Ukázky kódů pro studium programování v pythonu jsou na google drive [zde.](
 ---
 ## LaTex
 Okaz na template je zde. Přihlašte se do svého účtu na Overleafu, pak můžete MENU->Copy Project a dále pracovat na svém textu.
-[odkaz na overleaf](https://www.overleaf.com/read/pzfsjzkfbygq#4a9376)
+
+[odkaz na overleaf (read only)](https://www.overleaf.com/read/pzfsjzkfbygq#4a9376)
