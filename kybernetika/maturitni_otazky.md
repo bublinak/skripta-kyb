@@ -2,7 +2,7 @@
 
 1. [Základní principy](./chapters/zakladni_principy.md) a [pojmy kybernetiky](./chapters/systems_CZ.md) (anglická verze: [here](./chapters/systems.md))
 2. [Klasifikace systémů](./chapters/systems_CZ.md) (anglická verze: [here](./chapters/systems.md))
-3. Řízení systémů
+3. [Řízení systémů](./chapters/PID_regulator.md)
 4. Základní principy teorie informace
 5. Booleovská algebra
 6. Kombinační logické obvody
