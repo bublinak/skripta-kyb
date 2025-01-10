@@ -5,8 +5,8 @@
 3. [Řízení systémů](./chapters/PID_regulator.md)
 4. [Základní principy teorie informace](./chapters/information_theory.md)
 5. [Booleovská algebra](./chapters/booleovska_algebra.md)
-6. Kombinační logické obvody
-7. Sekvenční logické obvody
+6. Kombinační logické obvody (viz. Booleovská algebra, resp. Jirkova výuka)
+7. Sekvenční logické obvody (Jirkova výuka)
 8. Základní principy umělé inteligence
 9. Základy strojového učení
 10. Základní principy neuronových sítí
