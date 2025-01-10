@@ -4,7 +4,7 @@
 2. [Klasifikace systémů](./chapters/systems_CZ.md) (anglická verze: [here](./chapters/systems.md))
 3. [Řízení systémů](./chapters/PID_regulator.md)
 4. [Základní principy teorie informace](./chapters/information_theory.md)
-5. Booleovská algebra
+5. [Booleovská algebra](./booleovska_algebra.md)
 6. Kombinační logické obvody
 7. Sekvenční logické obvody
 8. Základní principy umělé inteligence
