@@ -7,6 +7,9 @@
 5.	[Základní principy  umělé inteligence](./chapters/ZakladyUI.md)
 6.	[Učení s učitelem](./chapters/strojove_uceni.md)
 7.	[Učení bez učitele](./chapters/strojove_uceni.md)
+
+> AI, a učení s učitelem a bez učitele: kódy k tématu jsou ve složce *"codes/"*
+
 8.	Základní principy neuronových sítí
 9.	Typy neuronových sítí
 10.	Computer vision
