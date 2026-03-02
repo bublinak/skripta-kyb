@@ -12,21 +12,21 @@
 
 8.	Základní principy neuronových sítí
 9.	Typy neuronových sítí
-10.	Computer vision
-11.	Algoritmizace – řízení programu
-12.	Objektově orientované programování
-13.	Pasivní elektronické prvky
-14.	Aktivní elektronické prvky
-15.	Kombinační a sekvenční logika
-16.	Elektronické senzory a aktuátory
-17.	Jednočipové mikropočítače a mikrokontrolery
-18.	Čítače, časovače a přerušení
-19.	A/D a D/A převodníky
-20.	Pulzně šířková modulace (PWM)
-21.	Komunikační protokol MQTT a jeho využití
-22.	Komunikační sběrnice I2C a SPI
-23.	Regulátory – P, PI, PID
-24.	Návrh a stabilita regulátorů
+10. Computer vision
+11. Algoritmizace – řízení programu
+12. Objektově orientované programování
+13. [Pasivní elektronické prvky](13.%20Pasivní%20elektronické%20prvky.md)
+14. Aktivní elektronické prvky
+15. Kombinační a sekvenční logika
+16. Elektronické senzory a aktuátory
+17. Jednočipové mikropočítače a mikrokontrolery
+18. Čítače, časovače a přerušení
+19. A/D a D/A převodníky
+20. Pulzně šířková modulace (PWM)
+21. Komunikační protokol MQTT a jeho využití
+22. Komunikační sběrnice I2C a SPI
+23. Regulátory – P, PI, PID
+24. Návrh a stabilita regulátorů
 
 
 # Maturitní otázky KYB ročník 2024-2025
