@@ -15,8 +15,9 @@
 10. Computer vision
 11. Algoritmizace – řízení programu
 12. Objektově orientované programování
+
 13. [Pasivní elektronické prvky](13.%20Pasivní%20elektronické%20prvky.md)
-14. Aktivní elektronické prvky
+14. [Aktivní elektronické prvky](14.%20Aktivní%20elektronické%20prvky.md)
 15. Kombinační a sekvenční logika
 16. Elektronické senzory a aktuátory
 17. Jednočipové mikropočítače a mikrokontrolery
