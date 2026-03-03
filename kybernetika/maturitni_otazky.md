@@ -21,7 +21,7 @@
 15. [Kombinační a sekvenční logika](15.%20Kombinační%20a%20sekvenční%20logika.md)
 16. Elektronické senzory a aktuátory
 17. Jednočipové mikropočítače a mikrokontrolery
-18. Čítače, časovače a přerušení
+18. [Čítače, časovače a přerušení](18.%20Čítače,%20časovače%20a%20přerušení.md)
 19. A/D a D/A převodníky
 20. Pulzně šířková modulace (PWM)
 21. Komunikační protokol MQTT a jeho využití
