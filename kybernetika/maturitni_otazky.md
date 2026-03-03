@@ -16,12 +16,12 @@
 11. Algoritmizace – řízení programu
 12. Objektově orientované programování
 
-13. [Pasivní elektronické prvky](13.%20Pasivní%20elektronické%20prvky.md)
-14. [Aktivní elektronické prvky](14.%20Aktivní%20elektronické%20prvky.md)
-15. [Kombinační a sekvenční logika](15.%20Kombinační%20a%20sekvenční%20logika.md)
+13. [Pasivní elektronické prvky](./chapters/13.%20Pasivní%20elektronické%20prvky.md)
+14. [Aktivní elektronické prvky](./chapters/14.%20Aktivní%20elektronické%20prvky.md)
+15. [Kombinační a sekvenční logika](./chapters/15.%20Kombinační%20a%20sekvenční%20logika.md)
 16. Elektronické senzory a aktuátory
 17. Jednočipové mikropočítače a mikrokontrolery
-18. [Čítače, časovače a přerušení](18.%20Čítače,%20časovače%20a%20přerušení.md)
+18. [Čítače, časovače a přerušení](./chapters/18.%20Čítače,%20časovače%20a%20přerušení.md)
 19. A/D a D/A převodníky
 20. Pulzně šířková modulace (PWM)
 21. Komunikační protokol MQTT a jeho využití
