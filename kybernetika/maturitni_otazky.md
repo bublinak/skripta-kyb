@@ -1,17 +1,17 @@
 # Maturitní otázky KYB ročník 2025 - 2026
 
-1.	[Verzovací systém Git](./chapters/git.md)
-2.	Kybernetika, definice, základní principy a terminologie ([základní principy](./chapters/zakladni_principy.md) a [systémy](.//chapters/systems_CZ.md))
-3.	[Booleova algebra](./chapters/booleovska_algebra.md)
-4.	[Karnaughovy mapy](./chapters/booleovska_algebra.md)
-5.	[Základní principy  umělé inteligence](./chapters/ZakladyUI.md)
-6.	[Učení s učitelem](./chapters/strojove_uceni.md)
-7.	[Učení bez učitele](./chapters/strojove_uceni.md)
+1. [Verzovací systém Git](./chapters/git.md)
+2. Kybernetika, definice, základní principy a terminologie ([základní principy](./chapters/zakladni_principy.md) a [systémy](.//chapters/systems_CZ.md))
+3. [Booleova algebra](./chapters/booleovska_algebra.md)
+4. [Karnaughovy mapy](./chapters/booleovska_algebra.md)
+5. [Základní principy  umělé inteligence](./chapters/ZakladyUI.md)
+6. [Učení s učitelem](./chapters/strojove_uceni.md)
+7. [Učení bez učitele](./chapters/strojove_uceni.md)
 
 > AI, a učení s učitelem a bez učitele: kódy k tématu jsou ve složce *"skripta-kyb/kybernetika/codes/"*
 
-8.	Základní principy neuronových sítí
-9.	Typy neuronových sítí
+8. Základní principy neuronových sítí
+9. Typy neuronových sítí
 10. Computer vision
 11. Algoritmizace – řízení programu
 12. Objektově orientované programování
