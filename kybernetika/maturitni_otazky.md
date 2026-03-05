@@ -25,7 +25,7 @@
 19. A/D a D/A převodníky
 20. [Pulzně šířková modulace (PWM)](chapters/20.%20Pulzně%20šířková%20modulace%20(PWM).md)
 21. [Komunikační protokol MQTT a jeho využití](chapters/21.%20Komunikační%20protokol%20MQTT%20a%20jeho%20využití.md)
-22. Komunikační sběrnice I2C a SPI
+22. [Komunikační sběrnice I2C a SPI](chapters/22.%20Komunikační%20sběrnice%20I2C%20a%20SPI.md)
 23. Regulátory – P, PI, PID
 24. Návrh a stabilita regulátorů
 
