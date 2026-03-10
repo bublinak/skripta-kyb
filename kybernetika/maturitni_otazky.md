@@ -1,32 +1,33 @@
 # Maturitní otázky KYB ročník 2025 - 2026
 
-1.	[Verzovací systém Git](./chapters/git.md)
-2.	Kybernetika, definice, základní principy a terminologie ([základní principy](./chapters/zakladni_principy.md) a [systémy](.//chapters/systems_CZ.md))
-3.	[Booleova algebra](./chapters/booleovska_algebra.md)
-4.	[Karnaughovy mapy](./chapters/booleovska_algebra.md)
-5.	[Základní principy  umělé inteligence](./chapters/ZakladyUI.md)
-6.	[Učení s učitelem](./chapters/strojove_uceni.md)
-7.	[Učení bez učitele](./chapters/strojove_uceni.md)
+1. [Verzovací systém Git](./chapters/git.md)
+2. Kybernetika, definice, základní principy a terminologie ([základní principy](./chapters/zakladni_principy.md) a [systémy](.//chapters/systems_CZ.md))
+3. [Booleova algebra](./chapters/booleovska_algebra.md)
+4. [Karnaughovy mapy](./chapters/booleovska_algebra.md)
+5. [Základní principy  umělé inteligence](./chapters/ZakladyUI.md)
+6. [Učení s učitelem](./chapters/strojove_uceni.md)
+7. [Učení bez učitele](./chapters/strojove_uceni.md)
 
 > AI, a učení s učitelem a bez učitele: kódy k tématu jsou ve složce *"skripta-kyb/kybernetika/codes/"*
 
-8.	Základní principy neuronových sítí
-9.	Typy neuronových sítí
-10.	Computer vision
-11.	Algoritmizace – řízení programu
-12.	Objektově orientované programování
-13.	Pasivní elektronické prvky
-14.	Aktivní elektronické prvky
-15.	Kombinační a sekvenční logika
-16.	Elektronické senzory a aktuátory
-17.	Jednočipové mikropočítače a mikrokontrolery
-18.	Čítače, časovače a přerušení
-19.	A/D a D/A převodníky
-20.	Pulzně šířková modulace (PWM)
-21.	Komunikační protokol MQTT a jeho využití
-22.	Komunikační sběrnice I2C a SPI
-23.	Regulátory – P, PI, PID
-24.	Návrh a stabilita regulátorů
+8. Základní principy neuronových sítí
+9. Typy neuronových sítí
+10. Computer vision
+11. Algoritmizace – řízení programu
+12. Objektově orientované programování
+
+13. [Pasivní elektronické prvky](./chapters/13.%20Pasivní%20elektronické%20prvky.md)
+14. [Aktivní elektronické prvky](./chapters/14.%20Aktivní%20elektronické%20prvky.md)
+15. [Kombinační a sekvenční logika](./chapters/15.%20Kombinační%20a%20sekvenční%20logika.md)
+16. [Elektronické senzory a aktuátory](chapters/16.%20Elektronické%20senzory%20a%20aktuátory.md)
+17. [Jednočipové mikropočítače a mikrokontrolery](chapters/17.%20Jednočipové%20mikropočítače%20a%20mikrokontrolery.md)
+18. [Čítače, časovače a přerušení](./chapters/18.%20Čítače,%20časovače%20a%20přerušení.md)
+19. A/D a D/A převodníky
+20. [Pulzně šířková modulace (PWM)](chapters/20.%20Pulzně%20šířková%20modulace%20(PWM).md)
+21. [Komunikační protokol MQTT a jeho využití](chapters/21.%20Komunikační%20protokol%20MQTT%20a%20jeho%20využití.md)
+22. [Komunikační sběrnice I2C a SPI](chapters/22.%20Komunikační%20sběrnice%20I2C%20a%20SPI.md)
+23. Regulátory – P, PI, PID
+24. Návrh a stabilita regulátorů
 
 
 # Maturitní otázky KYB ročník 2024-2025
